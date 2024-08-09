@@ -9,7 +9,7 @@
 
 - 🤖 I'm currently learning everything about LLMs, RAGs, Machine and Deep Learning for holding it all together.
     
-- -👨‍💻 All of my projects are available at <a href="https://github.com/haldonmez" style="display: inline-block; vertical-align: middle;"><img src="https://img.shields.io/badge/GitHub-Profile-%2359f159?style=flat&logo=github&logoColor=white" alt="GitHub Profile"></a>
+- -👨‍💻 All of my projects are available at <a href="https://github.com/haldonmez" style="display: inline-block; vertical-align: text-bottom;"><img src="https://img.shields.io/badge/GitHub-Profile-%2359f159?style=flat&logo=github&logoColor=white" alt="GitHub Profile"></a>
 
 
 
