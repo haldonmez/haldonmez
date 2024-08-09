@@ -34,9 +34,9 @@
 
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
     <!-- GitHub Streak Stats -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=haldonmez&theme=dark&hide_border=false" style="height: 200px; width: auto;" alt="GitHub Streak Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=haldonmez&theme=dark&hide_border=false" style="height: 136px; width: auto;" alt="GitHub Streak Stats">
     <!-- GitHub Top Languages -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haldonmez&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide=jupyter%20notebook,c%23,shaderlab" style="height: 200px; width: auto; margin-left: 10px;" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haldonmez&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide=jupyter%20notebook,c%23,shaderlab" style="height:136px; width: auto; margin-left: 10px;" alt="Top Languages">
 </div>
 
 
