@@ -3,13 +3,15 @@
   <img src="https://github.com/haldonmez/haldonmez/raw/main/images/Hi.gif" height="25" style="vertical-align: text-bottom; margin-bottom: 4px;" />
 </h1>
 
-- I'm a final year computer engineering student at the Bilecik University.
+- 🎓 I'm a final year computer engineering student at the Bilecik University.
 
-- I love learning new things, meeting new people and solving new problems!
+- 📚 I love learning new things, meeting new people and solving new problems!
 
-- I'm currently learning everything about LLMs, RAGs, Machine and Deep Learning for holding it all together.
+- 🤖 I'm currently learning everything about LLMs, RAGs, Machine and Deep Learning for holding it all together.
     
-- 👨‍💻 All of my projects are available at [https://github.com/haldonmez](https://github.com/haldonmez)
+- -👨‍💻 All of my projects are available at <a href="https://github.com/haldonmez" style="display: inline-block; vertical-align: middle;"><img src="https://img.shields.io/badge/GitHub-Profile-%2359f159?style=flat&logo=github&logoColor=white" alt="GitHub Profile"></a>
+
+
 
 
 <img src="https://komarev.com/ghpvc/?username=haldonmez&color=59f159&style=for-the-badge">
@@ -27,9 +29,15 @@
 
 
 
+<!-- GitHub Stats Section -->
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=haldonmez&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=haldonmez&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide=jupyter%20notebook,c%23,shaderlab)
+
+<div style="display: flex; align-items: center; flex-wrap: wrap;">
+    <!-- GitHub Streak Stats -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=haldonmez&theme=dark&hide_border=false" style="height: 200px; width: auto;" alt="GitHub Streak Stats">
+    <!-- GitHub Top Languages -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haldonmez&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide=jupyter%20notebook,c%23,shaderlab" style="height: 200px; width: auto; margin-left: 10px;" alt="Top Languages">
+</div>
 
 
 
