@@ -39,6 +39,33 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haldonmez&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide=jupyter%20notebook,c%23,shaderlab" style="height:136px; width: auto; margin-left: 10px;" alt="Top Languages">
 </div>
 
+<h2 align="center">Connect with Me</h2>
+
+<p align="center">
+  <a href="https://github.com/haldonmez" target="_blank">
+    <img src="images/icons/github.png" height="40" style="vertical-align:middle; margin:8px" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/halildönmez" target="_blank">
+    <img src="images/icons/linkedin.webp" height="40" style="vertical-align:middle; margin:8px" alt="LinkedIn">
+  </a>
+  <a href="https://www.kaggle.com/haldonmez" target="_blank">
+    <img src="images/icons/kaggle.webp" height="40" style="vertical-align:middle; margin:8px" alt="Kaggle">
+  </a>
+  <a href="https://huggingface.co/haldonmez" target="_blank">
+    <img src="images/icons/huggingface.png" height="40" style="vertical-align:middle; margin:8px" alt="Hugging Face">
+  </a>
+  <a href="https://medium.com/@thehalil.donmez" target="_blank">
+    <img src="images/icons/medium.png" height="40" style="vertical-align:middle; margin:8px" alt="Medium">
+  </a>
+  <a href="mailto:thehalil.donmez@gmail.com" target="_blank">
+    <img src="images/icons/gmail.png" height="40" style="vertical-align:middle; margin:8px" alt="Gmail">
+  </a>
+  <a href="TBA" target="_blank">
+    <img src="images/icons/icon.png" height="40" style="vertical-align:middle; margin:8px" alt="Gmail">
+  </a>
+</p>
+
+
 
 
 <!--
